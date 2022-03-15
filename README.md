@@ -1,8 +1,6 @@
 # Xray-install
 
-```
-bash -c "$(curl -L https://ghproxy.com/https://github.com/haoduck/Xray-install/raw/main/install-release.sh)" @ install
-```
+## ```bash -c "$(curl -L https://ghproxy.com/https://raw.githubusercontent.com/haoduck/Xray-install/main/install-release.sh)" @ install```
 
 Bash script for installing Xray in operating systems such as CentOS / Debian / OpenSUSE that support systemd.
 
